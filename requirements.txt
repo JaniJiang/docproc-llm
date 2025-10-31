@@ -1,0 +1,10 @@
+torch
+torchvision
+transformers
+accelerate
+modelscope
+qwen-vl-utils[decord]==0.0.8
+playwright
+beautifulsoup4
+tqdm
+pandas
