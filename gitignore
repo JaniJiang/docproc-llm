@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.venv*/
+.env
+.env*/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Data/Outputs
+data/*
+!data/README.md
+outputs/
+reports/
+figures/
+
+# Playwright
+.playwright/
+
+# VSCode
+.vscode/
